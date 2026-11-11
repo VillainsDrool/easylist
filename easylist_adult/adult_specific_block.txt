@@ -99,11 +99,15 @@
 ||bootyheroes.com//static/assets/img/banners/
 ||boyfriend.show/widgets/Spot
 ||boyfriendtv.com/ads/
+||boyfriendtv.com/bftv/*/player-extras.
 ||boyfriendtv.com/bftv/b/
 ||boyfriendtv.com/bftv/bb/
+||boyfriendtv.com/bftv/bbb/img/
 ||boyfriendtv.com/bftv/paysite/
 ||boyfriendtv.com/bftv/www/js/*.min.js?url=
 ||boyfriendtv.com/link/out/b/
+||boyfriendtv.com/units/live/ppnd/
+||boyfriendtv.com/zv3/b/
 ||boyfriendtv.com^*/vast.min.js
 ||boysfood.com/d5.html
 ||bravoteens.com/ta/
@@ -554,6 +558,7 @@
 ||taxidrivermovie.com^$~third-party,xmlhttprequest
 ||tbib.org/tbib.
 ||teenporno.xxx/ab/
+||thegay.com/static/da/
 ||thegay.porn/gdtatrco/
 ||thehun.net/banners/
 ||thenipslip.com/b6c0cc29df5a.js

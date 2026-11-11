@@ -380,6 +380,7 @@ hdtube.porn##.below-player-wrapper > noindex > a[target="_blank"]
 porndoe.com##.below-video
 cockdude.com##.beside-video-ver2
 wapbold.com,wapbold.net##.bhor-box
+directstripper.com##.big-spot
 hqporner.com##.black_friday
 babestare.com##.block
 alphaporno.com,tubewolf.com##.block-banner
@@ -464,7 +465,7 @@ sunporno.com##.close-invid
 abxxx.com##.close-play__container
 gays-cruising.com##.cnt_dccxxviii_cclxv
 gays-cruising.com##.cnt_dccxxviii_xc
-fap-nation.com,fyptt.to,gamegill.com,isekaitube.com,japaneseasmr.com##.code-block
+fap-nation.com,fyptt.to,gamegill.com,instavipclub.com,isekaitube.com,japaneseasmr.com##.code-block
 tube8.com,tube8.es,tube8.fr##.col-3-lg.col-4-md.col-4
 playvids.com##.col-lg-6.col-xl-4
 taxidrivermovie.com##.col-pfootban
@@ -519,7 +520,7 @@ vxxx.com##.emrihiilcrehehmmll
 tsumino.com##.erogames_container
 pornstargold.com##.et_bloom_popup
 upornia.com,upornia.tube##.eveeecsvsecwvscceee
-fapachi.com##.exc-pp
+8boobs.com,fapachi.com##.exc-pp
 eromanga-show.com,hentai-one.com,hentaipaw.com##.external
 lewdzone.com##.f8rpo
 escortnews.eu,topescort.com##.fBanners
@@ -574,6 +575,8 @@ iceporn.com##.furtherance
 xpics.me##.future
 hdtube.porn##.g-col-banners
 teenextrem.com##.g-link
+nightdreambabe.com##.g-owner-banner
+directstripper.com##.gallery-button
 youx.xxx##.gallery-link
 xxxonxxx.com,youtubelike.com##.gallery-thumbs
 porngamesverse.com##.game-aaa
@@ -582,6 +585,7 @@ tallermaintenancar.com##.girl
 pornflix.cc,pornstarwarshentai.com,xnxx.army##.global-army
 leakgallery.com##.golove-header
 bravoteens.com,bravotube.net##.good_list_wrap
+boyfriendtv.com##.grid:has(a[href*="faphouse.com"])
 homejav.com,kbjfree.com,onscreens.me,xmorex.com,xsz-av.com##.h-\[250px\]
 amateur-vids.eu,bestjavporn.com,deepfucks.com,mature.community,milf.community,milf.plus##.happy-footer
 ofansleaks.com##.happy-footer-mobile
@@ -686,6 +690,7 @@ xxxvogue.net##.link-adv
 escortnews.eu,topescort.com##.link-buttons-container
 85po.com,babepump.com,fapnfuck.com,fuqster.com,povxl.com,sexpester.com,w1mp.com,w4nkr.com,xmateur.com##.link-offer
 porntrex.video,txxx.video,xepn.com##.link-sponsor
+thegay.com##.listing-item.nopop
 boyfriend.tv,boyfriendtv.com##.live-cam-popunder
 spankbang.com##.live-rotate
 alloldpics.com,sexygirlspics.com##.live-spot
@@ -847,6 +852,7 @@ cumlouder.com##.resumecard
 porndroids.com##.resumecard__banner
 abjav.com,aniporn.com,bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,onlyporn.tube,pornstarwarshentai.com,porntop.com,xnxx.army##.right
 infospiral.com##.right-content
+boyfriendtv.com##.right-rail-block
 pornoreino.com##.right-side
 definebabe.com##.right-sidebar
 jable.tv##.right-sidebar > .mb-e-30
@@ -926,7 +932,7 @@ drtuber.com##.spot_button_m
 3movs.com,japan-whores.com##.spot_large
 momvids.com##.spot_panel
 pornmeka.com##.spot_wrapper
-drtuber.com,thisvid.com,vivatube.com,xxbrits.com##.spots
+directstripper.com,drtuber.com,thisvid.com,vivatube.com,xxbrits.com##.spots
 pornid.name,pornid.xxx##.spots-bottom
 rat.xxx##.spots-title
 sexvid.xxx##.spots_field
@@ -1098,6 +1104,7 @@ pornid.xxx##.wrap-cs
 playporn.xxx,videosdemadurasx.com##.wrap-spot
 pornrabbit.com##.wrap-spots
 xjav.tube##.wrapper > article
+directstripper.com##.wrapper > center > a[href*="/go/"]
 abjav.com,aniporn.com,bdsmx.tube,upornia.tube##.wrapper > section
 porn300.com##.wrapper__related-sites
 upornia.com,upornia.tube##.wssvkvkyyee
@@ -1242,6 +1249,7 @@ analdin.com,cockdude.com,coomer.st,fapcat.com,gelbooru.com,kemono.cr,official.co
 youpornzz.com##a[href*="/videoads.php?"]
 pornhub.com,pornhubpremium.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
 adultdvdempire.com##a[href*="?partner_id="][href*="&utm_"]
+boyfriendtv.com##a[href*="faphouse.com"]
 taxidrivermovie.com##a[href*="mrskin.com/"]
 adultfilmdatabase.com,analegg.com,animeidhentai.com,babeforums.org,camvideos.tv,camwhores.tv,coomer.st,erothots.co,f95zone.to,familypornhd.com,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,kemono.cr,muchohentai.com,myporn.club,official.coomer.com.co,pandamovies.pw,planetsuzy.org,porntrex.com,pussyspace.com,sendvid.com,sextvx.com,simpcity.cr,socialmediagirls.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,xfantazy.com##a[href*="theporndude.com"]
 tsmodelstube.com##a[href="https://tsmodelstube.com/a/tangels"]

@@ -138,11 +138,13 @@
 ||axonsite.com^
 ||azuremystique.com^
 ||azurestealth.com^
+||babelfreak.com^
 ||backupcat.com^
 ||baconbags.com^
 ||badgeboat.com^
 ||badgerabbit.com^
 ||badgevolcano.com^
+||bagave.com^
 ||bagbeam.com^
 ||bagsurprise.com^
 ||bahamashello.com^
@@ -181,6 +183,7 @@
 ||beelinecolor.com^
 ||beewhispering.com^
 ||beginnerpancake.com^
+||beholdthyson.com^
 ||benchlamp.com^
 ||benefitssense.com^
 ||bentengine.com^
@@ -188,6 +191,7 @@
 ||bestboundary.com^
 ||bestclimbers.net^
 ||bestcoffeemachine.net^
+||bestpriceonly.com^
 ||bestshoesboot.com^
 ||bestsportsbra.com^
 ||betazebra.com^
@@ -214,6 +218,7 @@
 ||binarycrest.com^
 ||binarykite.com^
 ||binspiredtees.com^
+||biocatalysts.net^
 ||biologylog.com^
 ||biotechnologysciences.com^
 ||birthdaybelief.com^
@@ -269,6 +274,7 @@
 ||boxandcover.com^
 ||brainybasin.com^
 ||branchborder.com^
+||brandcasters.com^
 ||brandsfive.com^
 ||brandybison.com^
 ||bravebone.com^
@@ -316,6 +322,7 @@
 ||cafefrench.com^
 ||cafejunior.net^
 ||cafescampfires.com^
+||cageylogic.com^
 ||cakeagenda.com^
 ||cakesdrum.com^
 ||calculatingcircle.com^
@@ -344,6 +351,7 @@
 ||cardmethod.com^
 ||cardproducer.com^
 ||carefuldolls.com^
+||cargrasp.com^
 ||caringcast.com^
 ||carloforward.com^
 ||carpoolmatch.com^
@@ -354,6 +362,7 @@
 ||cartjoint.com^
 ||cartlug.com^
 ||carvecakes.com^
+||castlereach.com^
 ||casualphysics.com^
 ||catalogcake.com^
 ||catlanguage.net^
@@ -407,6 +416,7 @@
 ||ciderfeast.com^
 ||cinemabonus.com^
 ||cinemafair.com^
+||circascope.com^
 ||circlelevel.com^
 ||citizensactive.com^
 ||citydeal.net^
@@ -416,6 +426,7 @@
 ||claycandle.com^
 ||cleanhaircut.com^
 ||clearclips.com^
+||cleargit.com^
 ||clickersdigest.com^
 ||climbingright.com^
 ||cloisteredcurve.com^
@@ -430,6 +441,7 @@
 ||clumsycar.com^
 ||clutchcourses.com^
 ||coalkitchen.com^
+||coalmerchants.com^
 ||coastersim.com^
 ||coatfood.com^
 ||cobaltoverture.com^
@@ -471,6 +483,7 @@
 ||confusedcart.com^
 ||consciouschairs.com^
 ||consciouscheese.com^
+||consciousremnant.com^
 ||constructioncans.com^
 ||consumerdebtnegotiation.com^
 ||consumerknowhow.com^
@@ -503,6 +516,7 @@
 ||cosplaygalaxy.com^
 ||costumeoffers.com^
 ||costwinner.com^
+||couponbright.com^
 ||couponrail.com^
 ||courageousbaby.com^
 ||coverlayer.com^
@@ -514,6 +528,7 @@
 ||crabbychin.com^
 ||craftessays.com^
 ||crafthenry.com^
+||crashbamboo.com^
 ||crashchance.com^
 ||crashpandas.com^
 ||cratecamera.com^
@@ -578,6 +593,7 @@
 ||darkartsyoga.com^
 ||darngavel.com^
 ||dashingdrop.com^
+||dataconsumed.com^
 ||datapickles.com^
 ||datastoried.com^
 ||daybreaklights.com^
@@ -624,6 +640,7 @@
 ||dewdroplagoon.com^
 ||dharmabrats.com^
 ||dicecandies.com^
+||dicezing.com^
 ||difficultfog.com^
 ||digestiondrawer.com^
 ||digitalatticnewsletter.com^
@@ -648,6 +665,7 @@
 ||documentstock.com^
 ||dodgebugs.com^
 ||dogcollarfavourbluff.com^
+||dollarbouquet.com^
 ||dollardelta.com^
 ||dollarpuzzle.com^
 ||dollarthrill.com^
@@ -879,8 +897,10 @@
 ||floweryfact.com^
 ||floweryflavor.com^
 ||floweryoperation.com^
+||fluffybirds.com^
 ||flushingbeast.com^
 ||flutteringfireman.com^
+||fluxdecor.com^
 ||flyflightstar.com^
 ||flystranger.com^
 ||flysupercars.com^
@@ -935,6 +955,7 @@
 ||funoverbored.com^
 ||funoverflow.com^
 ||funtoyplanet.com^
+||furiousvinyl.com^
 ||furryfork.com^
 ||fusedcontent.com^
 ||futuristicfifth.com^
@@ -960,6 +981,7 @@
 ||getbendyyoga.com^
 ||getwagtail.com^
 ||ghostgenie.com^
+||ghostscholars.com^
 ||ghostwoodalbum.com^
 ||gianthypes.com^
 ||giantsvessel.com^
@@ -1006,6 +1028,7 @@
 ||granlite.com^
 ||gravitygive.com^
 ||gravitykick.com^
+||gravitypics.com^
 ||graychalk.com^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -1017,6 +1040,8 @@
 ||gripcorn.com^
 ||grocerycrew.com^
 ||grocerydog.com^
+||groglog.com^
+||grooveguides.com^
 ||groovespacing.com^
 ||groovyornament.com^
 ||grouchybrothers.com^
@@ -1057,11 +1082,13 @@
 ||harmonywing.com^
 ||hayweb.net^
 ||hazmatworkshop.com^
+||headbandeau.com^
 ||headydegree.com^
 ||healflowers.com^
 ||healthyclad.com^
 ||heartbreakingmind.com^
 ||hearthow.com^
+||heatrave.com^
 ||heavydetail.com^
 ||heavyplayground.com^
 ||hellospur.com^
@@ -1069,8 +1096,11 @@
 ||helpcollar.com^
 ||helpflame.com^
 ||helpingbits.com^
+||hensonempire.com^
 ||heycomputers.com^
+||heyhotshots.com^
 ||hfc195b.com^
+||higherhub.com^
 ||highfalutinbox.com^
 ||highfalutinhoney.com^
 ||highnoongear.com^
@@ -1097,6 +1127,7 @@
 ||honeyscene.com^
 ||honorablehydrant.com^
 ||honorableland.com^
+||hoofersailing.com^
 ||hookconference.com^
 ||hoorayplay.com^
 ||hospitablehall.com^
@@ -1134,6 +1165,8 @@
 ||incomehippo.com^
 ||incompetentjoke.com^
 ||inconclusiveaction.com^
+||indieskills.com^
+||indscout.com^
 ||infamousstream.com^
 ||infinityhedge.com^
 ||informalbook.com^
@@ -1146,12 +1179,14 @@
 ||insectmacros.com^
 ||insideinspire.com^
 ||insidepsych.net^
+||insidercorp.net^
 ||inspirebees.com^
 ||insulatech.com^
 ||intelligentscissors.com^
 ||intentlens.com^
 ||internalcondition.com^
 ||internalsink.com^
+||intobuddy.com^
 ||intricateberry.com^
 ||introjava.com^
 ||inventtango.com^
@@ -1169,6 +1204,8 @@
 ||j93557g.com^
 ||jailbulb.com^
 ||jamexport.com^
+||jazzdocumentary.com^
+||jazzpianofast.com^
 ||jellyfinstream.com^
 ||jetskiscovers.com^
 ||jewelryforest.com^
@@ -1177,6 +1214,7 @@
 ||joblessdrum.com^
 ||jobmist.com^
 ||joshpaintings.com^
+||joybegins.com^
 ||joyfulharbor.com^
 ||joyouspool.com^
 ||joyoussurprise.com^
@@ -1205,6 +1243,7 @@
 ||kartbarriersystem.com^
 ||keenquill.com^
 ||kernellife.com^
+||keymono.net^
 ||kidpowers.com^
 ||kidrobotgames.com^
 ||kindhush.com^
@@ -1258,6 +1297,7 @@
 ||lilydreamer.com^
 ||limecodesign.com^
 ||limepeal.com^
+||limitowl.com^
 ||linksoutside.com^
 ||linkstable.com^
 ||littlegeese.com^
@@ -1273,6 +1313,7 @@
 ||loadsurprise.com^
 ||locateskill.com^
 ||locolava.com^
+||locowater.com^
 ||logicalminds.net^
 ||lonelyflavor.com^
 ||longingtrees.com^
@@ -1293,6 +1334,7 @@
 ||lowkeypalmtree.com^
 ||lowlatencydata.com^
 ||lowvolumes.com^
+||loyaltymatrix.com^
 ||luckyshelf.com^
 ||luckysportsgear.com^
 ||ludicrousarch.com^
@@ -1320,10 +1362,13 @@
 ||mailtinker.com^
 ||majesticwaterscape.com^
 ||majesticwilderness.com^
+||majorcleanup.net^
 ||makesimpact.com^
 ||maliciousmusic.com^
 ||manamoment.com^
 ||manateemotors.com^
+||mangamad.com^
+||manilazoo.com^
 ||manydiamonds.com^
 ||manyfishes.com^
 ||mapbasin.com^
@@ -1348,6 +1393,7 @@
 ||meadowlullaby.com^
 ||measlymiddle.com^
 ||meatydime.com^
+||medanysew.com^
 ||meddleplant.com^
 ||mediamaker.net^
 ||mediatescarf.com^
@@ -1438,6 +1484,7 @@
 ||mutualdocs.com^
 ||mysketchpad.com^
 ||mysticalagoon.com^
+||nablounge.com^
 ||naillearn.com^
 ||naivestatement.com^
 ||nappyattack.com^
@@ -1474,6 +1521,7 @@
 ||nexttopchef.com^
 ||nicefollows.com^
 ||nicehuh.com^
+||nicemenswear.com^
 ||niftygraphs.com^
 ||niftyhospital.com^
 ||niftyjelly.com^
@@ -1509,6 +1557,7 @@
 ||oafishchance.com^
 ||oafishobservation.com^
 ||objecthero.com^
+||objsoftware.com^
 ||oblivionfleet.com^
 ||obscenesidewalk.com^
 ||obscurespace.com^
@@ -1528,6 +1577,7 @@
 ||olivedaystee.com^
 ||omegaroutes.com^
 ||omgthink.com^
+||ominousmusic.com^
 ||onecrow.net^
 ||onedropocean.com^
 ||onekindmarket.com^
@@ -1542,11 +1592,13 @@
 ||opalquill.com^
 ||operationchicken.com^
 ||operationnail.com^
+||operawise.com^
 ||optimallimit.com^
 ||optionsnomad.com^
 ||opulentsylvan.com^
 ||orangebirdie.com^
 ||orchidgenius.com^
+||orderjumper.com^
 ||orgbackups.com^
 ||orientedargument.com^
 ||originblocks.com^
@@ -1589,10 +1641,12 @@
 ||passwordbyte.com^
 ||pastoralroad.com^
 ||pawsnug.com^
+||payiris.com^
 ||peacefullimit.com^
 ||peakcreator.com^
 ||pearpouch.com^
 ||peatfarming.com^
+||pedaldudes.com^
 ||pedropanther.com^
 ||peeringhost.net^
 ||pegsbuttons.com^
@@ -1601,6 +1655,7 @@
 ||perfectfetch.com^
 ||permagroove.com^
 ||petitechili.com^
+||phatfiles.com^
 ||phonecup.com^
 ||phoneresult.com^
 ||photohints.com^
@@ -1616,6 +1671,7 @@
 ||pingsurvey.com^
 ||pinsearcher.com^
 ||pipadvance.com^
+||pipsgain.com^
 ||piquantgrove.com^
 ||piquantmeadow.com^
 ||piquantpigs.com^
@@ -1635,6 +1691,7 @@
 ||playerhappy.com^
 ||playerscache.com^
 ||playfulriver.com^
+||playwarren.com^
 ||pleasantpump.com^
 ||plotparent.com^
 ||plotrabbit.com^
@@ -1657,6 +1714,7 @@
 ||polishedfolly.com^
 ||politeplanes.com^
 ||politicalporter.com^
+||polopremier.com^
 ||poolcushions.com^
 ||poolprochem.com^
 ||popliquids.com^
@@ -1667,6 +1725,7 @@
 ||possiblepencil.com^
 ||potatoinvention.com^
 ||potentmagic.com^
+||pottylife.com^
 ||powerfulblends.com^
 ||powerfulcopper.com^
 ||powertoolwiki.com^
@@ -1694,12 +1753,14 @@
 ||probablepartner.com^
 ||processplantation.com^
 ||procollecting.com^
+||prodsmax.com^
 ||producecopy.com^
 ||producepickle.com^
 ||productsurfer.com^
 ||profanstee.com^
 ||profitrumour.com^
 ||profusesupport.com^
+||projectglove.com^
 ||promiseair.com^
 ||propertypotato.com^
 ||propsynergy.com^
@@ -1720,11 +1781,13 @@
 ||pulsatingmeadow.com^
 ||pumpedpancake.com^
 ||pumpedpurpose.com^
+||puncherr.com^
 ||punyplant.com^
 ||puppetcorp.com^
 ||puppiesart.com^
 ||purebloom.net^
 ||purposepipe.com^
+||pursuitwomen.com^
 ||q20jqurls0y7gk8.info^
 ||quadquality.com^
 ||quantumlagoon.com^
@@ -1734,6 +1797,7 @@
 ||queenskart.com^
 ||questionate.com^
 ||quicklyedit.com^
+||quickpints.com^
 ||quicktattoo.com^
 ||quicktrick.net^
 ||quietknowledge.com^
@@ -1748,6 +1812,7 @@
 ||rabbitboots.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
+||racerpets.com^
 ||rackforstorage.com^
 ||radexports.com^
 ||radiantcanopy.com^
@@ -1760,10 +1825,12 @@
 ||raintwig.com^
 ||rainyhand.com^
 ||rainyrule.com^
+||ramartworks.com^
 ||rambunctiousflock.com^
 ||rangecake.com^
 ||rangeplayground.com^
 ||rangergustav.com^
+||rankaddict.com^
 ||rarelyfans.com^
 ||raresummer.com^
 ||razzweb.com^
@@ -1771,6 +1838,7 @@
 ||reactjspdf.com^
 ||reactwizard.com^
 ||readingguilt.com^
+||readourminds.com^
 ||readymoon.com^
 ||readysetcard.com^
 ||readysnails.com^
@@ -1785,6 +1853,7 @@
 ||receptivereaction.com^
 ||recessrain.com^
 ||recipearena.com^
+||recipediner.com^
 ||recipepile.net^
 ||recipepin.com^
 ||reconditeprison.com^
@@ -1795,6 +1864,7 @@
 ||redbricksoap.com^
 ||redexecs.com^
 ||redmillgroup.com^
+||reelcombat.com^
 ||reflectpaint.com^
 ||refundradar.com^
 ||regenergize.com^
@@ -1802,8 +1872,10 @@
 ||regularplants.com^
 ||regulatesleet.com^
 ||rehabilitatereason.com^
+||reignfans.com^
 ||relationrest.com^
 ||releasepath.com^
+||relexpert.com^
 ||rememberdiscussion.com^
 ||remixbistro.com^
 ||remixslot.com^
@@ -1855,6 +1927,7 @@
 ||rockagainst.com^
 ||rockcarving.com^
 ||rocketmonitor.com^
+||rockspreading.com^
 ||rockstarwriter.com^
 ||roguephilosopher.com^
 ||rollconnection.com^
@@ -1869,6 +1942,8 @@
 ||royalsbagels.com^
 ||royalsweeper.com^
 ||rubouthunger.com^
+||rubwonders.com^
+||rubymoonwinery.com^
 ||rubyswinehouse.com^
 ||ruralrobin.com^
 ||rusticfrench.com^
@@ -1938,6 +2013,7 @@
 ||screenphotos.com^
 ||scribblestring.com^
 ||scrollservice.com^
+||scrubchi.com^
 ||scrubswim.com^
 ||sealtravels.com^
 ||seamlesssalon.com^
@@ -2041,6 +2117,7 @@
 ||sizzlingoven.com^
 ||sizzlingsmoke.com^
 ||sketchpals.com^
+||sketchpodcast.com^
 ||skilledview.com^
 ||skillfuldrop.com^
 ||skillfullyfrugal.com^
@@ -2298,6 +2375,7 @@
 ||synthesizescarecrow.com^
 ||systemssummit.com^
 ||tabcarts.com^
+||tableleaders.com^
 ||tackytrains.com^
 ||tacojournal.com^
 ||tailoredcopy.com^
@@ -2319,6 +2397,7 @@
 ||techconverter.com^
 ||techdrivethru.com^
 ||techmix.net^
+||technonstop.com^
 ||tediousbear.com^
 ||tedioustooth.com^
 ||teejubilee.com^
@@ -2637,6 +2716,7 @@
 ||yellowscissors.com^
 ||yieldingwoman.com^
 ||youcandrawanything.com^
+||yourgiftedbaby.com^
 ||yourlifedream.com^
 ||zanyapps.com^
 ||zapandmake.com^
@@ -2662,6 +2742,7 @@
 ||bikemag.com/.api/admiral
 ||bringmethenews.com/.api/admiral
 ||dengarden.com/.api/admiral
+||fashionista.com/.api/admiral
 ||gamedaily.com/.api/admiral
 ||mensjournal.com/.api/admiral
 ||parade.com/.api/admiral

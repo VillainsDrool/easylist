@@ -997,6 +997,7 @@ thenationalpulse.com##.pulse__ad-wrapper
 thenationalpulse.com##.pulse_poster
 ess-news.com,pv-magazine.com##.pvmagazine-announcement-block
 metager.org##.quicktip[type="spendenaufruf"]
+designboom.com##.rail--sticky
 advocate.com##.reader-revenue
 abovethelaw.com##.recent-jobs-widget
 4kdownload.com##.recommend
@@ -1167,6 +1168,7 @@ reason.com##.webathon-meter
 reason.com##.webathon-meter-widget
 thehackernews.com##.webinar-con
 themarshallproject.org##.welcome-mat
+washingtonexaminer.com##.wex-ad-wrap
 thurrott.com##.widget > [href="https://www.thurrott.com/thurrott-premium"]
 nationalpost.com##.widget--local-ads
 cpuid.com##.widget-advert-300-sticky
@@ -1234,6 +1236,7 @@ techdirt.com##[style="width: 300px; height: 360px;"]
 fire.org,montanafreepress.org,peoplefor.org##[title="Persistent Donate Button"]
 peoplefor.org##[title="Popup"]
 psypost.org##[width="300"]
+votes.decisiondeskhq.com##a[aria-label="Upgrade to DDHQ Pro"]
 xhaccess.com,xhamster.com,xhamster.desi##a[class*="promoMessageBanner-"]
 tech-camp.in##a[data-gtm-tcb="TCB_CLICK_scrollbanner_default_exp_income"]
 tech-camp.in##a[data-gtm-tcb^="TCB_CLICK_buntyubanner_"]
@@ -1288,6 +1291,7 @@ twitch.tv#?#.player-overlay-background:has-text(Consider Turbo)
 undark.org#?#.trigger-in-view:has-text(Support Undark Magazine)
 united24media.com#?#.c-prose__ignore:has-text(Every article pushes)
 united24media.com#?#.z-modal.border-white:has-text(Support)
+votes.decisiondeskhq.com#?#.z-9999:has-text(free account)
 washingtonmonthly.com#?#.wp-block-group__inner-container:has-text(Support the Washington Monthly)
 weather.com#?#.min-h-12:has-text(Sign in to see fewer ads)
 wired.com#?#.table-container:has-text(Got a Tip?)
@@ -1297,9 +1301,9 @@ yalereview.org#?#.lg\:border-b-2:has-text(Support Our Commitment to Print)
 chromewebstore.google.com##[role="dialog"][aria-labelledby="promo-header"]
 chromewebstore.google.com#?#[aria-label="Info"]:has-text(Switch to Chrome)
 developer.android.com#?#.devsite-snackbar-snack:has-text(Please help us)
+www.google.*##div[jsname="wA2P2b"][data-li=""]
 google.com#?#.Ryrdad:has-text(Please help us improve)
 google.com#?#[jscontroller="HCSvae"]:has-text(/Sign in to Google|Build Android apps faster/)
-google.com#?#div[jsname="wA2P2b"]:has-text(How helpful were the results)
 www.google.com#?#[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez différemment|Search just got easier|Try more ways|Switch to Chrome|Keep things dark/)
 ! Paid overlay nag
 youtube.com##.ytp-paid-content-overlay
@@ -1813,6 +1817,7 @@ bergsysteemafbouw.nl##.totoplink
 nftplazas.com##.trx_addons_scroll_to_top
 repuestosportatiles.es##.tvbottom-to-top
 nippon.com##.u-pagetop
+avforums.com##.u-scrollButtons
 news.arizona.edu##.ua-zen-back-to-top
 unige.ch##.unige-topnav
 atramentowka.com,latuaitalia.ru,link11.com,oil-land.pl,picardirebel.co.za,sklep-art-meb.pl,subscribe.ru,tv-soyuz.ru##.up

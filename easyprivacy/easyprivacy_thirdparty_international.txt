@@ -111,6 +111,7 @@
 ||orbidder.otto.de^
 ||ottogroup.media/ogm.nitro.
 ||owen.prolitteris.ch^
+||p.marktplaats.net^
 ||pixel.poptok.com^
 ||plausible.ams.to^
 ||plista.com/getuid?
@@ -459,6 +460,7 @@
 ! Czech
 ||1gr.cz/log/
 ||a.centrum.cz^
+||app.smartemailing.cz/js/tracking/tracker.js
 ||bisko.mall.tv^
 ||c.seznam.cz^
 ||counter.cnw.cz^
@@ -723,6 +725,7 @@
 ||cnobi.jp^*/js/imp.
 ||cnt.mail.netbk.co.jp^$image
 ||codemarketing.cloud/rest/
+||collection.cyberprocurement.com^
 ||collector.t-idr.com^
 ||cookie.sync.usonar.jp^
 ||counter1.fc2.com^$third-party
@@ -864,13 +867,17 @@
 ||adlc-exchange.toast.com^
 ||applog.ssgdfs.com^
 ||assets.datarize.ai^
+||assets.poxo.com/jet/jet.js
 ||cafe24.com/cfa.js
 ||cafe24.com/weblog.js
+||cdn.datamanager.co.kr/0/tcsdm.js
+||cdn.onetag.co.kr/0/tcs.js
 ||cm-exchange.toast.com^
 ||dadispapi.gmarket.co.kr^
 ||dco.coupang.com^
 ||dtr-onsite-feed.datarize.ai^
 ||event.hackle.io^
+||js-error-tracer-api.cafe24.com^
 ||log.adplex.co.kr^
 ||log.cizion.com^
 ||log.mofa.go.kr^
@@ -882,6 +889,8 @@
 ||mtag.mman.kr^
 ||naver.com/mcollector/
 ||ngc1.nsm-corp.com^
+||ntm.pstatic.net/ex/nlog-v2.js
+||ntm.pstatic.net/ex/nlog.js
 ||performanceplay.co.kr^
 ||realtime-profiling.datarize.ai^
 ||recobell.io/rest/logs?
@@ -1097,6 +1106,7 @@
 ||stat.rum.cdnvideo.ru^
 ||stat.sputnik.ru^
 ||stat.tvigle.ru^
+||statad.ru/tracker.js
 ||statistics.fppressa.ru^
 ||stats-*.p2pnow.ru^
 ||stats.tazeros.com^
@@ -1182,6 +1192,7 @@
 ||pub.servidoresge.com^
 ||recogerconsentimiento.com/consent/
 ||rt.cdnmedia.tv^
+||rum.haystack.es^
 ||s3wfg.com/js/vortexloader.js
 ||segment.lalr.co^
 ||smarte.rs/log
@@ -1217,6 +1228,7 @@
 ||webpushstat.api.engagelab.cc^
 ! Turkish
 ||0.myikas.com^
+||affilialab.com/tracker.js
 ||analitik.bik.gov.tr^
 ||analytic.is^
 ||analytics.cdnstr.com^$third-party

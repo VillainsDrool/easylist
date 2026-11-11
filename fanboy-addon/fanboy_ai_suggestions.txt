@@ -60,6 +60,7 @@ chaletnursery.com###repWebClientContainer
 news18.com###rpdred
 baidu.com###s_tab_inner > a[href*="chat.baidu.com"]
 time.com###scale-agent-overlay-container
+app.slack.com###slackbot
 ibm.com###ucx-symphony-webchat-host
 autonocion.com###us-box-btn
 trip.com##.A9zea:has([aria-label*="Hi! TripGenie"])
@@ -89,7 +90,9 @@ ecosia.org##.ai-search-button
 straitstimes.com##.ai-summary
 businessinsider.com##.ai-summary-questions
 fresnobee.com##.ai-summary-wrapper
+community.shopify.com##.ai-topic-summary
 flyscoot.com##.ai-trip-section
+indiatoday.in##.ai_assist_logo
 economictimes.indiatimes.com##.ai_podcast_030825
 baidu.com##.aisearch-btn_1yI-K
 docs.google.com##.appsElementsSidekickAuroraEntryPointRoot
@@ -138,6 +141,7 @@ cybernews.com##.key-takeaway
 cybernews.com##.key-takeaway-editorial:has(> .key-takeaway-editorial__disclaimer)
 mojeek.com##.llm-btn
 amazon.com##.nav-rufus-disco
+ndmais.com.br##.nd-ro__resumo
 www.notion.so##.notion-assistant-corner-origin-container
 olivela.com##.oli-chat-bubble-popup
 olivela.com##.oli_popup_button
@@ -164,6 +168,7 @@ techedt.com##.teqr-quick-read
 psref.lenovo.com##.text-selection-ai-icon
 britannica.com##.toc-sticky-header-ai-container
 animeidhentai.com##.topbar-ai
+tweaktown.com##.tt-faq-wrapper
 walmart.com##.unified-chat-component
 autonocion.com##.us-box-resumen
 www.google.com#?##Odp5De:has-text(/AI Overview|Übersicht mit KI/)
@@ -178,6 +183,7 @@ baidu.com##[data-module="creation-cell"]
 mail.google.com##[data-pep-id="global-pep-gmail"]
 duckduckgo.com##[data-react-module-id="duckDuckGoHelp"]
 mail.google.com##[data-rp-placement-id="gemkick-pep-icon-callout-id"]
+www.google.com##[data-rpos]:has(.related-question-pair)
 baidu.com##[data-spy-count="panel-btn-click"]
 duckduckgo.com##[data-ssg-id="ask-duck-ai-submit"]
 drive.google.com##[data-test-id="help-me-organize-chip-container"]
@@ -221,6 +227,7 @@ www.reddit.com##div.label-container > span.trailing-content-container.has-traili
 studio.youtube.com##div.screen-banners-container.yta-screen:has(button[aria-label="Go to Inspiration"])
 studio.youtube.com##div.suggestion-chips-container:has(> ytcp-creator-chat-entrypoint-chips)
 bloomberg.com##div[class^="SummaryOnlyTakeaways_takeaways__"]
+www.google.com##div[data-initq]
 google.com##div[data-rp-placement-id="gemkick-pep-icon-callout-id"]
 glassdoor.com##div[data-test=copilot-search-input]
 docs.github.com#?#.prc-ActionList-GroupHeadingWrap-pfbd9:has-text(Ask Copilot)
@@ -293,3 +300,4 @@ www.youtube.com##ytd-talk-to-recs-flow-renderer
 ||widget.indexfox.ai^
 ||widget.kapa.ai^$third-party
 ||widget.prod.equally.ai^$third-party
+||widget.sitegpt.ai^$subdocument,third-party

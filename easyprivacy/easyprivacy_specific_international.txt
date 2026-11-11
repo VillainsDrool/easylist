@@ -54,6 +54,7 @@
 ||data.manga-passion.de^
 ||data.openerotik.com^
 ||data.sportdeutschland.tv^
+||dbik.literatur-couch.de^
 ||dd.betano.com^
 ||dein-plan.de/t.gif
 ||deine-tierwelt.de/ajax/responsive/stats.php?
@@ -1194,6 +1195,8 @@
 ||analytics.rambla.be^
 ||api.beleggersbelangen.nl//api/statistics/
 ||api.rtl.nl/monitoring/
+||araba.nl/__l5e/events.$script
+||araba.nl/~api/analytics
 ||azerty.nl/ambannerslider/analytic/
 ||bc34.wijnvoordeel.nl^
 ||bol.com/tracking/
@@ -1407,6 +1410,7 @@
 ||ma.register.it^
 ||mediaset.it/cgi-bin/getcod.cgi?
 ||mtv.it/flux/trackingcodes/
+||naxos.lastampausa.com^
 ||paginebianche.it/cgi-bin/jbimpres.cgi?
 ||paginebianche.it/ip?dv=
 ||paginegialle.it/cgi-bin/getcod.cgi?
@@ -1546,6 +1550,7 @@
 ||j1.ax.xrea.com^
 ||k-crm.jp/tracking.js
 ||kabu-sokuhou.com/js/cpv/
+||knshow.com/ab?
 ||kojima.net/excludes/KPC/js/kjm_gtm.js
 ||korewaeroi.com/fukugan_$subdocument
 ||link.tv-asahi.co.jp/tver/cookiesync?
@@ -1611,10 +1616,12 @@
 ||seesaawiki.jp/img/rainman.gif?
 ||service.webgoto.net/*?wAnalytics
 ||sgtm.cmoa.jp^
+||shasetsu.jp/metrics.js
 ||shipping.jp/raa/rd.js
 ||shopch.jp/com/js/analytics.js
 ||shueisha.online/op/analytics.js
 ||sidecar.unext.jp/track/
+||slorepo.com/v2/assets/srmeasure.js
 ||so-zou.jp/js/ga.js
 ||socialxup.com/api/sale-accounts
 ||socialxup.com/api/track
@@ -1775,6 +1782,7 @@
 ||sentry.siepomaga.pl^
 ||squid.gazeta.pl/bdtrck/
 ||ss.woodupp.pl^
+||sst.leroymerlin.pl^
 ||stats.teledyski.info^
 ||wp.pl/?rid=
 ||wtk.pl/js/WTKStats.js
@@ -1898,6 +1906,7 @@
 ||hh.ru/stat?
 ||interfax.ru/cnt/
 ||irecommend.ru/collect/
+||jitsu.www1.ru/api/s/track
 ||kommersant.ru/a.asp?p=
 ||kommersant.uk/banner_stats
 ||kontur.ru/abtests/
@@ -2135,6 +2144,8 @@
 ||log.ttbc-hcm.gov.vn^
 ||logsbin.dantri.com.vn^
 ||pixel.coccoc.com^
+||rivo.vin/api/*/view
+||rivo.vin/rivo-stealer/
 ||tka.tiki.vn/pixel/
 ||track-srv.vietnamnet.vn^
 ||w-api.baomoi.com^$image

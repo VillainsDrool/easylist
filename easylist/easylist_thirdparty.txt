@@ -19,6 +19,7 @@
 ||a.ucoz.net^
 ||a1.consoletarget.com^
 ||a2.consoletarget.com^
+||ad-ctrl.see-digital.co.uk^
 ||ad-serve.b-cdn.net^
 ||ad.22betpartners.com^
 ||ad.360yield-basic.com^
@@ -393,6 +394,7 @@
 ||linkshrink.net^$script,third-party
 ||linkspy.cc/js/fullPageScript.min.js
 ||linkx.ix.tc^
+||live.lzrtrz.com^
 ||lolithon.nl/affiliates/
 ||lottoelite.com/banners/
 ||ltkcdn.net/ltkrev.js
@@ -467,6 +469,7 @@
 ||piratecat.online/ads/
 ||pjatr.com^$image,script
 ||pjtra.com^$image,script
+||platform.arabyads.com^
 ||play-asia.com^$image,subdocument,third-party
 ||player.globalsun.io/player/videojs-contrib-ads$script,third-party
 ||playgama.com/ads/
@@ -551,7 +554,6 @@
 ||siteground.com/img/affiliate/
 ||siteground.com/img/banners/
 ||siteground.com/static/affiliate/$third-party
-||sk.fapnow.xxx^
 ||skimresources.com^$script,subdocument,third-party
 ||skygg.lat/ads/lib.js
 ||slysoft.com/img/banner/

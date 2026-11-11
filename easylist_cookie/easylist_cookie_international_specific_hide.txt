@@ -626,7 +626,7 @@ editions-eni.fr,red-by-sfr.fr,sfr.fr###CkC
 chaft.fr###Cookieslaw
 extremes-loisirs.fr###ModalCokkiePrivacyHome
 domaine-du-montmarin.com###\#cookie-banner
-kubii.com###acb-banner
+kubii.com,lacompagniedublanc.com###acb-banner
 decrypterlenergie.org###alert-mention
 brokerdefense.net###alertcookie
 gatineau.ca###arriere-plan-de-la-fenetre
@@ -1533,6 +1533,7 @@ ertflix.gr##div[data-test="cookie-policy"]
 !
 ! ---------- Hebrew ----------
 !
+photonics.com###BOX_CookiePolicy
 alfaromeo.co.il,hongqi.co.il###C_popup
 beitberl.ac.il,malamteam.com,shimur.org###MavilixCookiesBox
 calendar.2net.co.il###UseCookies
@@ -1560,7 +1561,7 @@ zinger-organic.com###cookie-consent-wrapper
 camera.co.il###cookie-policy-overlay
 madlan.co.il###cookie-root
 globes.co.il###cookiesConfirmDiv
-bneidavid.org,djistore.benda.co.il,ydssound.co.il###cookiez-banner
+bneidavid.org,djistore.benda.co.il,fly-guy.club,ydssound.co.il###cookiez-banner
 nathan-yochel.co.il###cui-banner
 soltam.co.il###dfwt-gdpr-overlay
 91fm.co.il###dkd-banner
@@ -1601,7 +1602,8 @@ dunietz-elad.co.il,invoice4u.co.il###privacy_policy_popup
 ivory.co.il###removeBannerCookie
 ipo.co.il###rg-privacy-wrap
 18comp.co.il,an-cooling.com,autotire.co.il,dpirzul.com,dsfiga.co.il,egopower.co.il,gantim.com,gilcopharm.com,givunim.com,gordonsystem.co.il,gsil.co.il,hobby-3.co.il,hrsena.com,matov.co.il,matrefa.com,matzberim.co.il,medi-pharm.co.il,mersa.co.il,meyuly.co.il,mishely-art.com,peimot.com,sjlightcompany.com,skil-israel.co.il,sos365.co.il,sound-world.co.il,tiptop-tire.co.il,tireplus.co.il,yuvalim-sdy.com,zolsefer.co.il###sb_privacy_policy_notice
-alumgadstore.co.il,ari-g.co.il,funkiershop.co.il,kmc-hotel.co.il,landers.co.il,lasport.co.il,maakav.org.il,marble-elchai.co.il,mrs-clean.co.il,mylist.co.il,nyga.co.il,peledlocks.co.il,trucksmuseum.org.il,wlight.co.il,yad-sarah.net###scb-banner
+alumgadstore.co.il,ari-g.co.il,divinesites.co.il,funkiershop.co.il,kmc-hotel.co.il,landers.co.il,lasport.co.il,maakav.org.il,marble-elchai.co.il,mrs-clean.co.il,mylist.co.il,nyga.co.il,peledlocks.co.il,trucksmuseum.org.il,wlight.co.il,yad-sarah.net###scb-banner
+divinesites.co.il###scb-overlay
 rozi-arizot.co.il,willi-food.co.il###scm-banner
 rozi-arizot.co.il,willi-food.co.il###scm-custom
 bike.co.il,bniyah.co.il###scn-banner-root
@@ -1626,15 +1628,17 @@ guidestar.org.il##.app-cookies-disclaimer-container
 infiniti-cars.co.il##.c_128
 erez-stern.co.il##.cadre_alert_cookies
 aloni-alum.co.il,iballoon.co.il,solar-click.co.il,sorag.co.il##.cbox-wrap
+cruiseit.co.il##.cc-backdrop
 ladaat.co##.ck-cookie-banner
 nooa.co.il##.cmplz-cookiebanner
 israelpost.co.il##.cookie-agreement
 moadonsport.com##.cookie-agreement-container
 yad2.co.il##.cookie-implementation-disclaimer_popupRoot__CLI1m
-deasy.co.il,easygo.co.il##.cookieMessage
+deasy.co.il,easygo.co.il,tzabar.co.il##.cookieMessage
 icomp.co.il##.cookieagry
 novelsat.com##.cookiepopup
 gesher-theatre.co.il##.cookies-approval-strip-wrapper
+maariv.co.il##.cookies-notice-container
 bug.co.il##.cookies-policy-modal-container
 pazgas.co.il##.cookies-popup-overlay
 ackerstein.co.il,adkan.org.il,eliasi.co.il,frid.co.il,hayeruka-ks.co.il,industry.org.il,lovenroses.co.il,mashkar.co.il,millenniumac.co.il,paradive.co.il,simply-smart.com,yamitspark.co.il##.cookies13wrap
@@ -1664,6 +1668,7 @@ aklimapro.co.il,hameigaash.co.il,sleepspa.co.il,taamal.co.il##.ilpc-banner
 sleepspa.co.il##.info_popup
 tami4.co.il##.jAASJS
 ksp.co.il##.ltr-1075xo6
+industry.org.il##.mai-cookie
 mdyo.co.il##.mdyo-cookie
 diners.co.il##.message-container
 ksp.co.il##.mui-b13abt.MuiBox-root
@@ -1683,7 +1688,7 @@ electra-danko.co.il,electra-elco-cs.co.il,electra-elevators.co.il,electra-infras
 ksp.co.il##.rtl-1075xo6
 arad-ac.co.il,tlvmall.com##.sbb-sticky-bar
 mazda.co.il##.sc-26e57d0b-0.hsLpSr
-bleeckerbakery.co.il,million-kisot.co.il##.sgcc-main-wrapper
+bleeckerbakery.co.il,million-kisot.co.il,podiumil.co.il##.sgcc-main-wrapper
 my.mor.org.il##.shadow-consent-banner
 jspca.org.il,letlive.org.il##.site-consent-banner
 l-s.co.il##.sogo-pc-banner
@@ -1696,6 +1701,7 @@ hillula.co.il##[class^="ai-cookie-popup-"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
+walla.co.il##div[aria-label="הודעה על שימוש בעוגיות"]
 kamazeole.co.il##div[aria-label="הודעת שימוש בקבצי Cookie"]
 morfix.co.il,on-the-way-two.vercel.app##div[aria-label="הסכמה לשימוש בעוגיות"]
 foodiepedia.co.il##div[aria-label="עוגיות"]
@@ -1715,6 +1721,7 @@ atrakzya.co.il,milega.co.il,shkedya.co.il,tooleden.com##flashy-popup
 postalfinance.co.il##float-window-alert
 shilav.co.il,zurmarket.co.il##popup-message[data-cookie-duration]
 solar-portal.co.il##section[aria-label="הודעת פרטיות וקובצי Cookie"]
+tv10.co.il##section[aria-label="הסכמה לשימוש בעוגיות"]
 tase.co.il##tase-cookies-policy
 !
 ! ---------- Hungarian ----------
@@ -2518,7 +2525,7 @@ insert.com.pl##.privacyAndCookiePolicy_wrapper
 kp.pl##.privacyModal
 hejto.pl##.py-4.px-6.items-center
 rankomat.pl##.rank-cookie-bar
-benugo.pl,buycom.pl,essystemk.pl,lako.pl,matysek.pl,mlekovita.com.pl,mlekovitka.pl,sklep.plast-pol.com,stonefeather.pl,super.buycom.pl##.realCookies
+benugo.pl,buycom.pl,essystemk.pl,lako.pl,matysek.pl,mlekovita.com.pl,mlekovitka.pl,sklep.plast-pol.com,stonefeather.pl##.realCookies
 prk24.pl##.rk-cookie-overlay
 alloc.pl,bagpolska.pl,dzieciwnature.pl,ecowater.md,ecowater.sk,ecowatersystems.cz,genesis.pl,mikolaj.org.pl,pkf.org.pl,teologiapolityczna.pl,yourcityguides.com##.rodopolicy
 scanner.com.pl##.rstboxes
@@ -2910,7 +2917,7 @@ pobeda.tv###cookie-embed
 ria-m.tv###cookie-msg
 openspeedtest.ru###cookieConsentParams
 violity.com###cookieConsentPopup
-zia.aero###cookieDisclaimer
+nsis.ru,zia.aero###cookieDisclaimer
 aeroflot.ru###cookieInfo
 abok.ru###cookieNotice
 itweek.ru,rvdtut.ru###cookie_notification
@@ -2949,6 +2956,7 @@ dzen.ru###recommend-tech-snackbar
 blsspainrussia.ru###removeCookie
 rutgames.net###rg-cookie-bar
 rgs.ru###rgs-main-context-bar
+rmansys.ru###rmsCookieNotice
 sport-express.net###se-cookie-popup
 thepublic.info###silktide-wrapper
 softline.ru###stripe_permission_use_cookie
@@ -2997,6 +3005,7 @@ mgazeta.com##._cookieBanner_1gh8s_2
 vsemayki.ru##._gTi8L8k
 2gis.ru##._n1367pl
 2gis.ru,2gis.uz##._nlniiu
+astrum-play.ru##._root_1fhto_1
 gastronom.ru##._root_24byp_2
 bankprav.ru##.a-warning
 oreluniver.ru##.accept
@@ -3054,6 +3063,7 @@ mnogo.ru##.cook_LFPnK
 propb.ru##.cooke
 invitro.ru##.cookie--popup
 voka.tv##.cookie-alertcomponent__BlurContainer-sc-b564p5-0
+technopark.ru##.cookie-allow
 spbu.ru##.cookie-block
 akit.ru##.cookie-consent-banner
 supersamsev.ru##.cookie-consent-container-wrap
@@ -3079,6 +3089,7 @@ job.mts.ru##.cookies-agreement-alert
 ok.ru##.cookies-agreement-notification
 1c-victory.ru##.cookies-block
 is1c.ru##.cookies-block-wrap
+fissman.ru##.cookies-custom-popup
 gosapteka-mo.ru##.cookies-info__box
 regnum.ru##.cookies-notice-container
 getcourse.ru##.cookies-notification
@@ -3088,7 +3099,7 @@ ruwiki.ru##.cookies-terms
 texet.ru##.cookies-win
 syrovarnya.com##.cookiesMessage_cookiesmessage__jAFno
 bml.ru##.cookiesModal
-doctorpiter.ru,marieclaire.ru,maximonline.ru,mcmaison.ru,parents.ru,starhit.ru,the-day.ru,thegirl.ru,vokrugsveta.ru,woman.ru##.cookiesPopup
+doctorpiter.ru,marieclaire.ru,maximonline.ru,mcmaison.ru,parents.ru,psychologies.ru,starhit.ru,the-day.ru,thegirl.ru,vokrugsveta.ru,woman.ru##.cookiesPopup
 sportsdaily.ru##.cookies_cookies__I5IfP
 uxfeedback.ru##.cookies_notification_cookiesContainer__YcD5G
 atol.ru##.cooks_k
@@ -3131,6 +3142,7 @@ vitaexpress.ru##.info-processing-personal-data-container
 stgau.ru##.inform
 friday.ru##.information
 bbr.ru##.is-message-ppd
+aeza.ru##.jUoafE
 life.ru##.jnpUBg
 icenter-store.ru##.jqmWindow
 incanto.eu##.js-footer
@@ -3270,6 +3282,8 @@ matchtv.ru##[data-testid="w-accept-cookie-notification"]
 sravni.ru##[sr-portal-container]
 sportmk.ru##[style^="position: fixed; left: 50%; bottom:"]
 reshuent.ru,sdamgia.ru##[style^="text-align: left; position: fixed;"]
+gkbyudina.ru##[x-data="BannerCookies"]
+helix.ru##app-cookie-consent
 fastvps.ru##app-cookies-accept
 authedu.mosreg.ru,myschool.mos.ru,school.mos.ru,uchebnik.mos.ru##body > div[style^="position: fixed; overflow: visible; top: 0px; left: 0px; transform: translate("]
 svo.aero##cookie
@@ -3278,6 +3292,7 @@ vmeste.mosreg.ru##dd-cookie-accept-banner
 sostav.ru##div:has(> p>a[href$="/page/policy"])
 rabota.sber.ru##div[class*="styled__CookieWrapper-"]
 meta-ratings.kz,metarating.com.ua,metaratings.by,metaratings.ru,metaratings.tj##div[class^="CookieAllowance-module-"]
+ggsel.net##div[class^="CookieBanner-module"]
 sberbank.com,sberbank.ru##div[class^="CookieWarning-"]
 sponsr.ru##div[class^="Cookie_container"]
 life.by##div[class^="Cookie_modalRoot_"]
@@ -3304,6 +3319,7 @@ id.sber.ru##div[data-testid="cookie_banner"]
 detmir.ru##div[data-testid="notification"]
 7dach.ru##div[style^="background-color:#fff3cd; color: #856404;"]
 chaynikam.info##div[style^="position: fixed; bottom: 0px;"]
+bloknot-astrakhan.ru,bloknot-donetsk.ru,bloknot-gelendzhik.ru,bloknot-herson.ru,bloknot-kamyshin.ru,bloknot-krasnodar.ru,bloknot-krymska.ru,bloknot-lugansk.ru,bloknot-moldova.ru,bloknot-morozovsk.ru,bloknot-novorossiysk.ru,bloknot-odessa.ru,bloknot-rostov.ru,bloknot-shakhty.ru,bloknot-stavropol.ru,bloknot-taganrog.ru,bloknot-volgodonsk.ru,bloknot-volgograd.ru,bloknot-volzhsky.ru,bloknot-voronezh.ru,bloknot-zaporozhie.ru,bloknot.ru,bloknotanapa.ru,bloknotanna.ru,bloknotborisoglebsk.ru,bloknotsaratov.ru,bloknottambov.ru,sochi-bloknot.ru##div[style^="position: fixed; bottom:"]
 pikabu.ru##div[style^="position: fixed; left: 0px;"]
 znayka.cc##div[style^="position:fixed;z-index:9999;left:18px;bottom:18px;"]
 delimobil.ru##footer

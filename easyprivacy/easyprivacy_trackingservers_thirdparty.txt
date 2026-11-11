@@ -45,6 +45,7 @@
 ||ablsrv.com^$third-party
 ||ablyft.com^$third-party
 ||abmr.net^$third-party
+||absmartly.io^$third-party
 ||absolstats.co.za^$third-party
 ||abtshield.com^$third-party
 ||acc-hd.de^$third-party
@@ -153,6 +154,7 @@
 ||albacross.com^$third-party
 ||alcmpn.com^$third-party
 ||alenty.com^$third-party
+||alketech.eu^$third-party
 ||alltracked.com^$third-party
 ||alocdn.com^$third-party
 ||alpixtrack.com^$third-party
@@ -199,6 +201,7 @@
 ||apicit.net^$third-party
 ||apollofind.com^$third-party
 ||apolloprogram.io^$third-party
+||app.dub.co^$third-party
 ||appboycdn.com^$third-party
 ||appcast.io^$third-party
 ||appdynamics.com^$third-party
@@ -210,7 +213,7 @@
 ||aptrinsic.com^$third-party
 ||aqtracker.com^$third-party
 ||aralego.net^$third-party
-||arc.io^$third-party
+||arc.io/widget.min.js
 ||arcadeweb.com^$third-party
 ||ardalio.com^$third-party
 ||arena-quantum.co.uk^$third-party
@@ -269,6 +272,7 @@
 ||baikalize.com^$third-party
 ||bam-x.com^$third-party
 ||baptisttop1000.com^$third-party
+||baqend.com^$third-party
 ||baremetrics.com^$third-party
 ||barilliance.net^$third-party
 ||basicstat.com^$third-party
@@ -639,6 +643,7 @@
 ||dmpprof.com^$third-party
 ||dmtracker.com^$third-party
 ||dmxleo.com^$third-party
+||dn-analytics.alketech.eu^
 ||dnsdelegation.io^$third-party
 ||doceree.com^$third-party
 ||doclix.com^$third-party
@@ -661,6 +666,7 @@
 ||dtc-v6t.com^$third-party
 ||dti-ranker.com^$third-party
 ||dtxngr.com^$third-party
+||dubcdn.com^$third-party
 ||durationmedia.net^$third-party
 ||dvnfo.com^$third-party
 ||dynatrace-managed.com^$third-party
@@ -863,6 +869,7 @@
 ||funstage.com^$third-party
 ||fusestats.com^$third-party
 ||fuziontech.net^$third-party
+||fw-cdn.com^$third-party
 ||fwpixel.com^$third-party
 ||fyreball.com^$third-party
 ||ga-analytics.com^$third-party
@@ -1215,7 +1222,6 @@
 ||leadintel.io^$third-party
 ||leadintelligence.co.uk^$third-party
 ||leadlab.click^$third-party
-||leadlife.com^$third-party
 ||leadmanagerfx.com^$third-party
 ||leadpipe.com^$third-party
 ||leadsius.com^$third-party
@@ -1715,6 +1721,7 @@
 ||pushauction.com^$third-party
 ||pushspring.com^$third-party
 ||pvd.to^$third-party
+||pvdpix.com^$third-party
 ||pxaction.com^$third-party
 ||pxf.io^$image,script,third-party
 ||pxi.pub^$third-party
@@ -1760,6 +1767,7 @@
 ||reactful.com^$third-party
 ||readertracking.com^$third-party
 ||readnotify.com^$third-party
+||readtargeting.com^$third-party
 ||realcounter.eu^$third-party
 ||realcounters.com^$third-party
 ||reallyfreegeoip.org^$third-party

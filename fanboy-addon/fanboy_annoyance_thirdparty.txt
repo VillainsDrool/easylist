@@ -100,6 +100,7 @@
 ||foursixty.com^$third-party
 ||freetellafriend.com^$third-party
 ||frizbit.com^$third-party
+||fundraiseup.com^$third-party
 ||fwix.com^$third-party
 ||gameball.co^$third-party
 ||gatherup.com^$third-party
@@ -329,6 +330,7 @@
 ||usablenet.com^$third-party
 ||usefomo.com^$third-party
 ||userdatatrust.com^$third-party
+||vaticannews.va/widget.js
 ||vhmengine.com^$third-party
 ||vicomi.com^$third-party
 ||volomedia.com^$third-party
